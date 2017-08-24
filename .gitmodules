@@ -1,0 +1,6 @@
+[submodule "submodule-test"]
+	path = submodule-test
+	url = https://github.com/ihormedvid/testing-the-github-pages
+[submodule "sm-test"]
+	path = sm-test
+	url = https://github.com/ihormedvid/testing-the-github-pages
